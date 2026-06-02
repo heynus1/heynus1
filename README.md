@@ -65,7 +65,7 @@ I mainly work on autonomous driving software, focusing on planning, control, per
 
 | Year | Activity |
 |---|---|
-| 2025 | Team MACARON |
+| 2025 | Team MACARON Hardware|
 | 2026 | Team MACARON Planning |
 
 <br>
